@@ -12,3 +12,4 @@
 #### Challenge 2 : Pandas tutorial
 * Day 1 : Basics of pandas
 * Day 2 : Summarizing data
+* Day 3 : Selecting, Slicing and Filtering data
