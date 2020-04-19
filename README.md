@@ -13,3 +13,4 @@
 * Day 1 : Basics of pandas
 * Day 2 : Summarizing data
 * Day 3 : Selecting, Slicing and Filtering data
+* Day 4 : Sorting and Defining column
