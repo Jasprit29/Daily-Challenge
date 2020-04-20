@@ -14,3 +14,4 @@
 * Day 2 : Summarizing data
 * Day 3 : Selecting, Slicing and Filtering data
 * Day 4 : Sorting and Defining column
+* Day 5 : Dropping data and changing data type of columns
